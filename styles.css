@@ -4,5 +4,9 @@ body {
 }
 h1 {
     text-align: center;
-    color: rgb(49, 48, 48);
+    color: maroon;
+}
+h2 {
+    text-align: center;
+    color: maroon;
 }

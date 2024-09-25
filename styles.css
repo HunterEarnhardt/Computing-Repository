@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(60, 60, 206);
+    background-color: darkcyan;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -7,6 +7,6 @@ h1 {
     color: maroon;
 }
 h2 {
-    text-align: center;
+    text-align: left;
     color: maroon;
 }
